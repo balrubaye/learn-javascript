@@ -1,6 +1,6 @@
 # Learn JavaScript for Beginners
 
-This repository contains code examples that complement the "[Learn JavaScript for Beginners](https://bassamrubaye.me/learn-javascript-for-beginners/)" blog post on YourWebsite. These examples are designed to help beginners grasp the basics of JavaScript, including syntax, data types, control structures, and functions.
+This repository contains code examples that complement the "[Learn JavaScript for Beginners](https://bassamrubaye.me/learn-javascript-for-beginners/)" blog post. These examples are designed to help beginners grasp the basics of JavaScript, including syntax, data types, control structures, and functions.
 
 ## Table of Contents
 
